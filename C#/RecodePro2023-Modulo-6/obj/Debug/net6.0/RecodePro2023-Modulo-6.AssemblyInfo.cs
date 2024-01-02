@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecodePro2023-Modulo-6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de3d7fe136623f23a6cce4ff5aba96cf2730e706")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecodePro2023-Modulo-6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecodePro2023-Modulo-6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
